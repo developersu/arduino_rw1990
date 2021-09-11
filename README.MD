@@ -27,8 +27,31 @@ To ***write key*** you need do next steps:
 
 ### Example
 
+Read:
+```
+.........
+[1:F0:88:12:1:0:0:2E]
+
+[1:F0:88:12:1:0:0:2E]
+
+[1:F0:88:12:1:0:0:2E]
+
+[1:F0:88:12:1:0:0:2E]
+..................................
 ```
 
+Write:
+
+```
+..
+[1:F0:88:12:1:0:0:2E]
+++++++++
+[1:5F:69:B:1:0:0:EA]
+
+[1:5F:69:B:1:0:0:EA]
+ programmed to KEY requested
+[1:5F:69:B:1:0:0:EA]
+ programmed to KEY requested.....
 ```
 
 ### References:
